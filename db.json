@@ -1,0 +1,60 @@
+{
+  "Student": [
+    {
+      "id": 2,
+      "Name": "Aanad Jain",
+      "Batch": "B-78",
+      "City": "Indore",
+      "Fees": 88800
+    },
+    {
+      "id": 4,
+      "Name": "Data ",
+      "Batch": "B-42",
+      "City": "Kasdf",
+      "Fees": 45400
+    },
+    {
+      "id": 5,
+      "Name": "Stand kal",
+      "Batch": "B-42",
+      "City": "Bali",
+      "Fees": 56000
+    },
+    {
+      "id": 6,
+      "Name": "Kalre",
+      "Batch": "B-82",
+      "City": "Nagpur",
+      "Fees": 58000
+    },
+    {
+      "Name": "ram",
+      "Batch": "cs",
+      "City": "bhopal",
+      "Fees": "11111",
+      "id": 3
+    },
+    {
+      "Name": "Amit",
+      "Batch": "me",
+      "City": "Indore",
+      "Fees": "99000",
+      "id": 7
+    },
+    {
+      "Name": "Amit",
+      "Batch": "Me",
+      "City": "Jaipur",
+      "Fees": "45000",
+      "id": 8
+    },
+    {
+      "Name": "sourabh",
+      "Batch": "Me",
+      "City": "Jaipur",
+      "Fees": "45000",
+      "id": 9
+    }
+  ]
+}

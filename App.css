@@ -1,0 +1,11 @@
+.form
+{
+  background-color: gray;
+  border: 2px solid red;
+  border-radius: 20px;
+  height: 500px;
+  width: 100vh;
+  padding-top: 50px;
+  /* padding-bottom: 30px; */
+  
+}
